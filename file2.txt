@@ -9,3 +9,6 @@ git push -u origin main
 git branch
 
 git branch -d dev
+
+
+git pull origin master
