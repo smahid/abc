@@ -19,3 +19,5 @@ git branch checkout dev
 >>>>>>> parent of ee0f571 (add some line)
 
 create new branch production
+
+add new features
