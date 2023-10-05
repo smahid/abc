@@ -5,6 +5,7 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/smahid/abc.git
 git push -u origin main
+<<<<<<< HEAD
 
 git branch
 
@@ -14,3 +15,5 @@ git branch -d dev
 git pull origin master
 
 git branch checkout dev
+=======
+>>>>>>> parent of ee0f571 (add some line)
