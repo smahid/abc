@@ -12,3 +12,5 @@ git branch -d dev
 
 
 git pull origin master
+
+git branch checkout dev
